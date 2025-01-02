@@ -2,6 +2,8 @@ Speech Bot 🎙️🌍: Real-Time Transcription and Translation Made Effortless
 
 Speech Bot is a full-stack application designed to simplify and revolutionize communication. This tool enables users to transcribe speech into text, either through direct recording or uploading an mp3 file, and translate it into multiple languages with accuracy.
 
+![image alt](https://github.com/RayanAhsan/Speech-Bot/blob/dfa592e0dc1887ab72eefe937a0e4f2e2de405cc/SpeechBot.png)
+
 🌟 Key Features
 
 -AI-Powered Transcription: Utilizes OpenAI’s Whisper-tiny.en model for real-time and offline speech-to-text conversion.
