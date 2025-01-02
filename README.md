@@ -15,7 +15,11 @@ Speech Bot is a full-stack application designed to simplify and revolutionize co
 -Exportable Results: Save transcriptions and translations as PDF or TXT files for easy sharing and reference.
 
 🚀 Technologies Used
+
 Frontend: React, Tailwind CSS
+
 Backend: Node.js, Express
+
 Machine Learning Models: OpenAI Whisper, Xenova NLLB-200
+
 Utilities: File upload handling, PDF/TXT generation
