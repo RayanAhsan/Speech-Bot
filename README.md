@@ -12,7 +12,7 @@ Speech Bot is a full-stack application designed to simplify and revolutionize co
 
 -User-Friendly Interface: A sleek, responsive front-end built with React and Tailwind CSS ensures an intuitive user experience.
 
--Flexible Input Options: Supports audio recording and MP3 uploads for maximum convenience.
+-Flexible Input Options: Supports audio recording and MP3 uploads for convenience.
 
 -Exportable Results: Save transcriptions and translations as PDF or TXT files for easy sharing and reference.
 
